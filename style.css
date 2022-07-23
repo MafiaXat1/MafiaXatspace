@@ -1,0 +1,44 @@
+/**
+ * @Author: Your name
+ * @Date:   2022-07-23 18:51:44
+ * @Last Modified by:   Your name
+ * @Last Modified time: 2022-07-23 22:23:10
+ */
+margin: 0;
+padding: 0;
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    background-image: url(img/xatsoace.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+box-sizing: border-box;
+--font-1: 'Great Vibes',sans-serif;
+--font-2: 'Archivo Black',sans-serif;
+--font-3: 'Open Sans',sans-serif;
+--font-4: Orbitron,sans-serif;
+--font-5: Oswald,sans-serif;
+--font-6: 'Roboto Slab',sans-serif;
+--font-1: 'Great Vibes',sans-serif;
+--font-2: 'Archivo Black',sans-serif;
+--font-3: 'Open Sans',sans-serif;
+--font-4: Orbitron,sans-serif;
+--font-5: Oswald,sans-serif;
+--font-6: 'Roboto Slab',sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+--font-1: 'Great Vibes',sans-serif;
+--font-2: 'Archivo Black',sans-serif;
+--font-3: 'Open Sans',sans-serif;
+--font-4: Orbitron,sans-serif;
+--font-5: Oswald,sans-serif;
+--font-6: 'Roboto Slab',sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+FONT-SIZE: 12pt;
+FONT-FAMILY: Arial, 'Great Vibes', Helvetica, sans-serif;
+background: linear-gradient(-135deg,#060040 250px,transparent 251px),linear-gradient(-135deg,#F3EFFF 342px,transparent 343px),linear-gradient(-135deg,#E0D5FF 402px,transparent 403px),#200A5E;
